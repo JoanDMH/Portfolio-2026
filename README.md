@@ -10,3 +10,6 @@ Este repositorio documenta mi camino para convertirme en **Fullstack Developer**
 ## 📅 Progreso
 - [ ] Semana 1: Setup & Fundamentos
 - [ ] Semana 2: JavaScript Deep Dive
+
+## About me
+Hola soy un estudiante de *ingeniería de Sistemas* estoy en **octavo semestre**
