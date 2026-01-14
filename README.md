@@ -1,4 +1,4 @@
-# Portfolio 2026 🚀
+# Portfolio 2026 - Versión ROJA 🔴
 
 Este repositorio documenta mi camino para convertirme en **Fullstack Developer** (React & NestJS).
 
