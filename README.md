@@ -13,4 +13,4 @@ Este repositorio documenta mi camino para convertirme en **Fullstack Developer**
 
 ## About me
 Hola soy un estudiante de *ingeniería de Sistemas* estoy en **octavo semestre**
-Quiero encontrar trabajo como junior!S
+Estoy aprendiendo git
